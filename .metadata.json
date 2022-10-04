@@ -1,5 +1,6 @@
 [
   {
-    "package": "rangeMapper"
+    "package": "rangeMapper",
+    "oncran": true
   }
 ]
